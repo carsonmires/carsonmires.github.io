@@ -4,7 +4,7 @@
 
 The elevator I have chosen is this one, in a parking garage outside of campus
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/outside.jpg" width=25% height=25%>
+![](images/outside.jpg)
 
 <img src= "https://github.com/carsonmires/p1.carson.mires/blob/main/images/outside%202.jpg" width=25% height=25%>
 
