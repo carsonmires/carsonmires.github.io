@@ -10,13 +10,13 @@
 
 The elevator I have chosen is this one, in a parking garage outside of campus
 
-![Outside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/outside%202.jpg)
+![Outside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/outside%202.JPG)
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/inside.jpg" width=25% height=25%>
+![Inside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside.JPG)
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/inside%202.jpg" width=25% height=25%>
+![Inside 2](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside%202.JPG)
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/inside%20gif.gif" width=25% height=25%>
+![Inside Gif](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside%20gif.gif)
 
 
 ### Design
