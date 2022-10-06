@@ -10,9 +10,7 @@
 
 The elevator I have chosen is this one, in a parking garage outside of campus
 
-![](images/outside.jpg)
-
-<img src= "https://github.com/carsonmires/p1.carson.mires/blob/main/images/outside%202.jpg" width=25% height=25%>
+![Outside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/outside%202.jpg)
 
 <img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/inside.jpg" width=25% height=25%>
 
