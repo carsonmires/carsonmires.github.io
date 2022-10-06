@@ -10,11 +10,11 @@
 
 The elevator I have chosen is this one, in a parking garage outside of campus
 
-![Outside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/outside%202.JPG)
+![Outside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/outside%202.jpg)
 
-![Inside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside.JPG)
+![Inside](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside.jpg)
 
-![Inside 2](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside%202.JPG)
+![Inside 2](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside%202.jpg)
 
 ![Inside Gif](https://raw.githubusercontent.com/carsonmires/carsonmires.github.io/main/inside%20gif.gif)
 
