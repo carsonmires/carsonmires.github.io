@@ -27,7 +27,7 @@ This is then followed by the weather in the bottom left, which includes your cur
 as well as the forecast for later in the day.
 There is a news feed at the bottom in smaller text, because to me this isn't as important as some of the other things. Lastly, the weight in lbs is in the bottom right.
 
-![Mirror Sketch](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror sketch.jpg)
+![Mirror Sketch](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror_sketch.jpg)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ There is a news feed at the bottom in smaller text, because to me this isn't as 
 In my code implementation, I followed my sketch for the most part, and I made each section of the mirror that has information easily discernable from
 everything else on the mirror, and in different colors.
 
-![Mirror Pic](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror code pic.jpg)
+![Mirror Pic](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror_code_pic.jpg)
 
 As well as GIF of my code here:
 
