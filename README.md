@@ -41,3 +41,6 @@ everything else on the mirror, and in different colors.
 As well as GIF of my code here:
 
 ![Mirror Gif](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror_crop.gif)
+
+As you can see, the clock is ticking in seconds and will update for AM and PM as well. Unfortunately, there is nothing else that is clickable on the mirror, and since 
+I did not have a webcam to use webcam functionality, I just used a still image for my background that serves in place of a webcam.
